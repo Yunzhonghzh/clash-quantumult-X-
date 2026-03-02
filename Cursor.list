@@ -1,0 +1,6 @@
+DOMAIN-SUFFIX,cursor.sh         # 包含 api2/3/4.cursor.sh, repo42.cursor.sh 等
+DOMAIN-SUFFIX,cursor.com
+DOMAIN-SUFFIX,cursor-cdn.com    # CDN，扩展/更新
+DOMAIN-SUFFIX,cursorapi.com     # marketplace.cursorapi.com
+DOMAIN-SUFFIX,workos.co        # 登录认证（常见于一些规则集）
+DOMAIN-SUFFIX,gcpp.cursor.sh
